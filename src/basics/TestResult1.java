@@ -8,6 +8,7 @@ public class TestResult1 {
       System.out.println("subtract result is :"+ cal. subtract(6,2));
       System.out.println("multiply result is :"+ cal. multiply(6,2));
       System.out.println("divide result is :"+ cal. divide(6,2));
+      System.out.println("display Car:"+cal.multiply1(34,12));
 
 
     }
