@@ -9,5 +9,6 @@ public class TestResult1 {
       System.out.println("multiply result is :"+ cal. multiply(6,2));
       System.out.println("divide result is :"+ cal. divide(6,2));
 
+
     }
 }
